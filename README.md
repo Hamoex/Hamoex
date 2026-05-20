@@ -78,13 +78,8 @@ const hamoex = {
 ## &#128202; GitHub Stats
 
 <div align="center">
-
-<!-- Stats from GitHub Action -->
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/stats-output/stats.svg" height="150" alt="stats graph" />
-
-<!-- Languages from GitHub Action -->
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/languages-output/languages.svg" height="150" alt="languages graph" />
-
+  <img src="https://raw.githubusercontent.com/hamoEX/hamoEX/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/hamoEX/hamoEX/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ## &#128200; Contribution Graph
@@ -146,6 +141,11 @@ const hamoex = {
 </div>
 
 <!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamoEX/hamoEX/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamoEX/hamoEX/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hamoEX/hamoEX/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
