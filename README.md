@@ -89,7 +89,6 @@ const hamoex = {
   <img src="https://raw.githubusercontent.com/hamoEX/hamoEX/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
-
 ## &#128200; Contribution Graph
 
 <div align="center">
@@ -98,13 +97,6 @@ const hamoex = {
 
 </div>
 
-## &#128293; GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Hamoex&theme=gruvbox&background=0d1117&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff" alt="GitHub Streak" />
-
-</div>
 
 ## &#127942; GitHub Trophies
 
