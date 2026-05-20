@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Web%20Developer%20%2B%20Backend&descSize=20&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Developer%20%7C%20DevOps%20%7C%20More&descSize=20&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Web+Developer+%2B+Backend;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Server+VPS+%26+Solving;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Developer+%7C+DevOps+%7C+More;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Server+VPS+%26+Solving;Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C853&center=true&vCenter=true&width=400&lines=Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Open+Source+Contributor;Server+Management" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C853&center=true&vCenter=true&width=450&lines=Open+Source+Contributor;Server+Management+%26+DevOps;UI%2FUX+Design+Enthusiast;Problem+Solver+%26+Critical+Thinker" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF6B6B&center=true&vCenter=true&width=300&lines=%F0%9F%94%A5+Code+is+poetry;%F0%9F%9A%80+Ship+it!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF6B6B&center=true&vCenter=true&width=350&lines=%F0%9F%94%A5+Code+is+poetry;%F0%9F%9A%80+Ship+it!;%E2%9C%A8+Stay+hungry%2C+stay+foolish;%F0%9F%92%AF+Never+stop+learning" />
 
 <br/><br/>
 
@@ -27,8 +27,10 @@
 ```javascript
 const hamoex = {
     pronouns: "He/Him",
+    role: "Full Developer | DevOps",
     languages: ["JavaScript", "Python", "C++"],
     focus: "Building awesome web applications",
+    skills: ["Web Dev", "Backend", "Frontend", "Server VPS", "Solving"],
     funFact: "I turn coffee into code ☕",
     motto: "When development meets innovation.",
     currentlyLearning: "Everything! 🚀"
@@ -77,6 +79,16 @@ const hamoex = {
 
 <img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Stars-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repos-3-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
+
+<!-- Animated Stats Table -->
+| 📊 Stats | 📈 Value |
+|:---:|:---:|
+| **Public Repos** | ![Repos](https://img.shields.io/badge/3-00ff9f?style=flat-square) |
+| **Followers** | ![Followers](https://img.shields.io/badge/0-00ff9f?style=flat-square) |
+| **Stars** | ![Stars](https://img.shields.io/badge/0-00ff9f?style=flat-square) |
 
 </div>
 
