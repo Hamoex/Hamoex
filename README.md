@@ -178,8 +178,8 @@ const hamoex = {
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
+</div>
 
 ## &#128208; Support Me
 
