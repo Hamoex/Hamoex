@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Programmer&descSize=20&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Web%20Developer%20%2B%20Backend&descSize=20&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Server+VPS+%26+Solving;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Web+Developer+%2B+Backend;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Server+VPS+%26+Solving;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
 
 <br/>
 
@@ -17,8 +17,6 @@
 <img src="https://komarev.com/ghpvc/?username=Hamoex&color=blueviolet&style=flat-square&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/Hamoex?label=Followers&style=flat-square&color=00ff9f" />
 <img src="https://img.shields.io/github/stars/Hamoex?label=Stars&style=flat-square&color=00ff9f" />
-<img src="https://img.shields.io/github/repos/Hamoex?label=Repos&style=flat-square&color=00ff9f" />
-<img src="https://img.shields.io/github/last-commit/Hamoex?label=Last+Commit&style=flat-square&color=00ff9f" />
 
 </div>
 
@@ -77,10 +75,8 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public_Repos-3-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Stars-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Forks-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -96,7 +92,7 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=false&no-bg=false&column=6&margin-w=10&margin-h=10&row=2" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=false&no-bg=false&column=6&margin-w=10&margin-h=10&row=2&include=COMMITS,ISSUES,CONTRIBUTORS" alt="Trophies" />
 
 </div>
 
