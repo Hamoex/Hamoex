@@ -17,9 +17,10 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Hamoex&color=blueviolet&style=flat-square&label=Profile+Views&abbreviated=false" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Hamoex?label=Followers&style=social" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Hamoex?label=Total+Stars&style=social" alt="Stars" />
-<img src="https://img.shields.io/github/forks/Hamoex?label=Forks&style=social" alt="Forks" />
+<img src="https://img.shields.io/github/followers/Hamoex?label=Followers&style=flat-square" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Hamoex?label=Stars&style=flat-square" alt="Stars" />
+<img src="https://img.shields.io/badge/Forks-0-green?style=flat-square&logo=github" alt="Forks" />
+<img src="https://img.shields.io/badge/Repos-3-blue?style=flat-square&logo=github" alt="Repos" />
 
 </div>
 
@@ -120,34 +121,34 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Hamoex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9&langs_count=10" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamoex&theme=radical" width="100%" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9&langs_count=10" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamoex&theme=radical" width="49%" />
-</a>
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamoex&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamoex&theme=tokyonight" width="100%" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamoex&theme=radical&utcOffset=8" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamoex&theme=tokyonight" width="49%" />
 </a>
 <a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamoex&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamoex&theme=tokyonight" width="49%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Hamoex">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamoex&theme=tokyonight&utcOffset=8" width="49%" />
+</a>
+<a href="https://github.com/Hamoex">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamoex&theme=tokyonight" width="49%" />
 </a>
 
 </div>
@@ -159,7 +160,7 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamoex&theme=radical&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamoex&theme=tokyonight&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
 </a>
 
 <br/>
@@ -177,7 +178,7 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&row=3" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&row=3" alt="Trophies" />
 </a>
 
 </div>
@@ -188,7 +189,7 @@ const hamoex = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -219,8 +220,8 @@ const hamoex = {
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/hamoex">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+<a href="https://www.paypal.com/ncp/payment/GBFKUTY4DQBUW">
+  <img src="https://img.shields.io/badge/-Donate%20with%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
 
 </div>
