@@ -93,6 +93,14 @@ const hamoex = {
 
 </div>
 
+## &#128293; GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Hamoex&theme=gruvbox&background=0d1117&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff" alt="GitHub Streak" />
+
+</div>
+
 ## &#127942; GitHub Trophies
 
 <div align="center">
@@ -118,6 +126,9 @@ const hamoex = {
 </a>
 <a href="https://www.linkedin.com/in/hamos/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://yorkhost.fr/">
+  <img src="https://img.shields.io/badge/-Website-00ff9f?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
 </div>
