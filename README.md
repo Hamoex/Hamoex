@@ -80,21 +80,48 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Animated Stats Badges -->
-<img src="https://img.shields.io/badge/Public_Repos-3-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Stars-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Forks-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<!-- Row 1: Main Stats - Big Animated -->
+<img src="https://img.shields.io/badge/📂_Public_Repos-3-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/👥_Followers-0-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/⭐_Stars-0-FFD700?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🍴_Forks-0-00CED1?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/>
 
-<!-- Stats with Neon Glow Effect -->
-<img src="https://img.shields.io/badge/JavaScript-Used-00ff9f?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-Used-00ff9f?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-Used-00ff9f?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-Used-00ff9f?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-Used-00ff9f?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-Used-00ff9f?style=for-the-badge&logo=node.js&logoColor=white" />
+<!-- Row 2: Activity Stats -->
+<img src="https://img.shields.io/badge/📅_Last_Commit-Recent-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🔄_Following-2-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/📝_Contributions-Active-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
+
+<!-- Row 3: Languages Used -->
+<img src="https://img.shields.io/badge/🟨_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/🎨_CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/💚_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<br/>
+
+<!-- Row 4: Tools Used -->
+<img src="https://img.shields.io/badge/💻_VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/🔀_Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/🐙_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🐚_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀_Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/🐧_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<br/>
+
+<!-- Row 5: More Tools -->
+<img src="https://img.shields.io/badge/☁️_Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/🎮_Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/📦_NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/🏠_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/🪟_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/💡_jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
 </div>
 
