@@ -20,7 +20,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 <!-- Pacman Contribution Graph -->
 <picture>
