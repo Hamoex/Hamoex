@@ -110,7 +110,17 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=neon&no-frame=true&no-bg=true&column=7&margin-w=10&row=3" alt="Trophies" />
+<!-- Trophy Row 1 - Main Achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=1" alt="Trophies Row 1" />
+
+<!-- Trophy Row 2 - Activity -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=2" alt="Trophies Row 2" />
+
+<!-- Trophy Row 3 - Skills -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=3" alt="Trophies Row 3" />
+
+<!-- Trophy Row 4 - Special -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=4" alt="Trophies Row 4" />
 
 </div>
 
