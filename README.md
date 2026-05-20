@@ -140,9 +140,7 @@ const hamoex = {
 <a href="https://www.linkedin.com/in/hamos/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://yorkhost.fr/">
-  <img src="https://img.shields.io/badge/-Website-00ff9f?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
+
 
 </div>
 
