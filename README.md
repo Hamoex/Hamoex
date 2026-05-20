@@ -2,21 +2,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;Working+with+YorkHost+%F0%9F%92%A0;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;Working+with+YorkHost+%F0%9F%92%A0;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C853&center=true&vCenter=true&width=400&lines=Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Hosting+%26+Infrastructure;Open+Source+Contributor" alt="Typing SVG 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C853&center=true&vCenter=true&width=400&lines=Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Hosting+%26+Infrastructure;Open+Source+Contributor" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF6B6B&center=true&vCenter=true&width=300&lines=%F0%9F%94%A5+Code+is+poetry;%F0%9F%9A%80+Ship+it!" alt="Typing SVG 3" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF6B6B&center=true&vCenter=true&width=300&lines=%F0%9F%94%A5+Code+is+poetry;%F0%9F%9A%80+Ship+it!" />
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Hamoex&color=blueviolet&style=flat-square&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/Hamoex?label=Followers&style=flat-square" />
 <img src="https://img.shields.io/github/stars/Hamoex?label=Stars&style=flat-square" />
+<img src="https://img.shields.io/github/repos/Hamoex?label=Repos&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/Hamoex?label=Last+Commit&style=flat-square" />
 
 </div>
 
@@ -99,21 +101,34 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<!-- Stats Table -->
+| 📊 Stats | 📈 Details |
+|:---:|:---:|
+| **Public Repos** | ![Repos](https://img.shields.io/badge/3-blue?style=flat-square) |
+| **Followers** | ![Followers](https://img.shields.io/badge/0-green?style=flat-square) |
+| **Following** | ![Following](https://img.shields.io/badge/2-yellow?style=flat-square) |
+| **Total Stars** | ![Stars](https://img.shields.io/badge/0-orange?style=flat-square) |
 
 </div>
 
-## &#128200; Contribution Graph
+## &#127775; Skills & Expertise
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Hamoex&theme=default&background=0d1117&hide_border=true" alt="GitHub Streak" />
+| Category | Skills |
+|:---|:---|
+| **Languages** | JavaScript, TypeScript, Python, C++, PHP, SQL |
+| **Frontend** | React, HTML5, CSS3, Bootstrap, jQuery, Vite |
+| **Backend** | Node.js, Express, Socket.io |
+| **Databases** | PostgreSQL, MongoDB, Firebase |
+| **DevOps** | Docker, Nginx, Cloudflare, Linux, Debian |
+| **Tools** | VSCode, Git, GitHub, Figma, Bash |
 
-<br/>
+</div>
+
+## &#128200; Activity Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00F548&line=00F548&point=FFFFFF&area=true&area_color=00F548&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
@@ -139,10 +154,18 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Website-00F548?style=for-the-badge&logo=About.me&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://yorkhost.fr/">
+  <img src="https://img.shields.io/badge/-Website-00F548?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://github.com/Hamoex">
+  <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hamos/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:contact@yorkhost.fr">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
