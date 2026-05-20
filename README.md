@@ -23,8 +23,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 <!-- Pacman Contribution Graph -->
-
-<img src="https://raw.githubusercontent.com/hamoEX/hamoEX/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ## &#128187; About Me
 
