@@ -8,8 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C853&center=true&vCenter=true&width=450&lines=Open+Source+Contributor;Server+Management+%26+DevOps;UI%2FUX+Design+Enthusiast;Problem+Solver+%26+Critical+Thinker" />
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF6B6B&center=true&vCenter=true&width=350&lines=%F0%9F%94%A5+Code+is+poetry;%F0%9F%9A%80+Ship+it!;%E2%9C%A8+Stay+hungry%2C+stay+foolish;%F0%9F%92%AF+Never+stop+learning" />
@@ -160,7 +158,7 @@ const hamoex = {
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Hamoex/readme/c181c52c95ba3140743fa7491f1a6c30bd446f72/pacman-contribution-graph-dark.svg" alt="Yummy" />
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
 
