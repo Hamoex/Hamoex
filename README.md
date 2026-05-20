@@ -85,7 +85,7 @@ const hamoex = {
 <div align="center">
 
 <!-- Stats from GitHub Action -->
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/stats-output/stats.svg" height="150" alt="stats graph" />
+<img src="https://raw.githubusercontent.com/Hamoex/readme/832b9c4ebfe287c92ed93a01b5c291df0dc93537/stats.svg" height="150" alt="stats graph" />
 
 <!-- Languages from GitHub Action -->
 <img src="https://raw.githubusercontent.com/Hamoex/Hamoex/languages-output/languages.svg" height="150" alt="languages graph" />
