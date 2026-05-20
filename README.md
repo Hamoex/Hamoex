@@ -24,7 +24,7 @@
 
 <!-- Pacman Contribution Graph -->
 
-<img src="https://raw.githubusercontent.com/hamoEX/hamoEX/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/snake-output/snake.svg" alt="Snake animation" />
 
 ## &#128187; About Me
 
