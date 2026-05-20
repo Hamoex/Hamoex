@@ -77,19 +77,12 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Stats as Big Visual Cards -->
-<img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Stars-0-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repos-3-00CED1?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Forks-0-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/>
-
-<!-- Stats Image Cards -->
-| 📊 | 📈 |
-|:---:|:---:|
-| ![Followers](https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge) | ![Stars](https://img.shields.io/badge/Stars-0-FFD700?style=for-the-badge) |
-| ![Repos](https://img.shields.io/badge/Repos-3-00CED1?style=for-the-badge) | ![Forks](https://img.shields.io/badge/Forks-0-FF6B6B?style=for-the-badge) |
+<a href="https://github.com/Hamoex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Hamoex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9" />
+</a>
 
 </div>
 
