@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Server+VPS+%26+Solving;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
 
 <br/>
 
