@@ -77,7 +77,7 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Row 1: Main Stats - Big Animated -->
+<!-- Main Stats - Big Animated -->
 <img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Stars-0-FFD700?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repos-3-00CED1?style=for-the-badge&logo=github&logoColor=white" />
@@ -85,33 +85,10 @@ const hamoex = {
 
 <br/>
 
-<!-- Row 2: Languages Used -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-<br/>
-
-<!-- Row 3: Tools Used -->
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-<br/>
-
-<!-- Row 4: More Tools -->
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<!-- More Stats -->
+<img src="https://img.shields.io/badge/Contributions-Active-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Issues-0-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PRs-0-E67E22?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/>
 
@@ -120,8 +97,10 @@ const hamoex = {
 |:---:|:---:|
 | **Public Repos** | ![Repos](https://img.shields.io/badge/3-00ff9f?style=flat-square) |
 | **Followers** | ![Followers](https://img.shields.io/badge/0-00ff9f?style=flat-square) |
-| **Stars** | ![Stars](https://img.shields.io/badge/0-00ff9f?style=flat-square) |
-| **Forks** | ![Forks](https://img.shields.io/badge/0-00ff9f?style=flat-square) |
+| **Stars** | ![Stars](https://img.shields.io/badge/0-FFD700?style=flat-square) |
+| **Forks** | ![Forks](https://img.shields.io/badge/0-FF6B6B?style=flat-square) |
+| **Issues** | ![Issues](https://img.shields.io/badge/0-9B59B6?style=flat-square) |
+| **PRs** | ![PRs](https://img.shields.io/badge/0-E67E22?style=flat-square) |
 | **Last Commit** | ![Last Commit](https://img.shields.io/badge/Recent-00ff9f?style=flat-square) |
 
 </div>
