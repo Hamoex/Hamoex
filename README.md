@@ -121,34 +121,10 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
 <a href="https://github.com/Hamoex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9&langs_count=10" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamoex&theme=tokyonight" width="100%" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamoex&theme=tokyonight" width="49%" />
-</a>
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamoex&theme=tokyonight" width="49%" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamoex&theme=tokyonight&utcOffset=8" width="49%" />
-</a>
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hamoex&theme=tokyonight" width="49%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
 
 </div>
