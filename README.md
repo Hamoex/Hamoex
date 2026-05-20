@@ -174,8 +174,6 @@ const hamoex = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
-
 ## &#128208; Support Me
 
 <div align="center">
