@@ -78,10 +78,13 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9" alt="GitHub Stats" />
 </a>
+
+<br/>
+
 <a href="https://github.com/Hamoex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9" alt="Top Languages" />
 </a>
 
 </div>
