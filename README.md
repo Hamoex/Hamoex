@@ -15,10 +15,10 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Hamoex&color=blueviolet&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Hamoex?label=Followers&style=flat-square" />
-<img src="https://img.shields.io/github/stars/Hamoex?label=Stars&style=flat-square" />
-<img src="https://img.shields.io/github/repos/Hamoex?label=Repos&style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/Hamoex?label=Last+Commit&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Hamoex?label=Followers&style=flat-square&color=00ff9f" />
+<img src="https://img.shields.io/github/stars/Hamoex?label=Stars&style=flat-square&color=00ff9f" />
+<img src="https://img.shields.io/github/repos/Hamoex?label=Repos&style=flat-square&color=00ff9f" />
+<img src="https://img.shields.io/github/last-commit/Hamoex?label=Last+Commit&style=flat-square&color=00ff9f" />
 
 </div>
 
@@ -80,22 +80,27 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Animated Stats with Neon Effect -->
-<img src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&ring_color=00ff9f" alt="GitHub Stats" />
+<!-- Animated Stats Badges -->
+<img src="https://img.shields.io/badge/Public_Repos-3-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Stars-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Forks-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=ffffff" alt="Top Languages" />
+<!-- Stats with Neon Glow Effect -->
+<img src="https://img.shields.io/badge/JavaScript-Used-00ff9f?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-Used-00ff9f?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-Used-00ff9f?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-Used-00ff9f?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-Used-00ff9f?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-Used-00ff9f?style=for-the-badge&logo=node.js&logoColor=white" />
 
 </div>
 
 ## &#128200; Contribution Graph
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Hamoex&theme=neon&background=0d1117&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff" alt="GitHub Streak" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00ff9f&line=00ff9f&point=ffffff&area=true&area_color=00ff9f&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
@@ -122,7 +127,7 @@ const hamoex = {
 <div align="center">
 
 <a href="https://yorkhost.fr/">
-  <img src="https://img.shields.io/badge/-Website-00F548?style=for-the-badge&logo=About.me&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Website-00ff9f?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://github.com/Hamoex">
   <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
