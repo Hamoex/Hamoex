@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Developer%20%7C%20DevOps%20%7C%20More&descSize=20&descAlignY=55&descAlign=50" />
 
 <div align="center">
-    
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Developer+%7C+DevOps+%7C+More;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Server+VPS+%26+Solving;Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
 
 <br/>
@@ -22,13 +22,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
-
+<!-- Pacman Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hamoex/hamoex/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
 
 ## &#128187; About Me
 
@@ -83,12 +82,15 @@ const hamoex = {
 
 ## &#128202; GitHub Stats
 
-<!-- Stats Badges -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hamoEX/hamoEX/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/hamoEX/hamoEX/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
+<!-- Stats from GitHub Action -->
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/stats-output/stats.svg" height="150" alt="stats graph" />
+
+<!-- Languages from GitHub Action -->
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/languages-output/languages.svg" height="150" alt="languages graph" />
+
+</div>
 
 ## &#128200; Contribution Graph
 
@@ -147,5 +149,8 @@ const hamoex = {
 </a>
 
 </div>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
