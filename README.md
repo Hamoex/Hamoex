@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20YorkHost&descSize=20&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Programmer&descSize=20&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;Working+with+YorkHost+%F0%9F%92%A0;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C853&center=true&vCenter=true&width=400&lines=Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Hosting+%26+Infrastructure;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00C853&center=true&vCenter=true&width=400&lines=Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Open+Source+Contributor;Server+Management" />
 
 <br/>
 
@@ -29,11 +29,8 @@
 ```javascript
 const hamoex = {
     pronouns: "He/Him",
-    company: "YorkHost",
-    website: "https://yorkhost.fr/",
     languages: ["JavaScript", "Python", "C++"],
     focus: "Building awesome web applications",
-    hosting: "Server management & deployment",
     funFact: "I turn coffee into code ☕",
     motto: "When development meets innovation.",
     currentlyLearning: "Everything! 🚀"
@@ -99,17 +96,7 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Trophy Row 1 - Main Achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=1" alt="Trophies Row 1" />
-
-<!-- Trophy Row 2 - Activity -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=2" alt="Trophies Row 2" />
-
-<!-- Trophy Row 3 - Skills -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=3" alt="Trophies Row 3" />
-
-<!-- Trophy Row 4 - Special -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=true&no-bg=false&column=4&margin-w=5&margin-h=5&row=4" alt="Trophies Row 4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=false&no-bg=false&column=6&margin-w=10&margin-h=10&row=2" alt="Trophies" />
 
 </div>
 
@@ -125,17 +112,11 @@ const hamoex = {
 
 <div align="center">
 
-<a href="https://yorkhost.fr/">
-  <img src="https://img.shields.io/badge/-Website-00ff9f?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
 <a href="https://github.com/Hamoex">
   <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/hamos/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:contact@yorkhost.fr">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
