@@ -159,6 +159,8 @@ const hamoex = {
   </ul>
 </div> -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
+
 ## &#127760; Connect With Me
 
 <div align="center">
@@ -170,9 +172,9 @@ const hamoex = {
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 ## &#128208; Support Me
 
@@ -183,7 +185,6 @@ const hamoex = {
 </a>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Hamoex/readme/c181c52c95ba3140743fa7491f1a6c30bd446f72/pacman-contribution-graph-dark.svg" alt="Yummy" />
