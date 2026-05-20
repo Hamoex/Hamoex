@@ -102,6 +102,8 @@ const hamoex = {
 <img src="https://img.shields.io/badge/Repos-3-00CED1?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Forks-0-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
+
 </div>
 
 ## &#128200; Contribution Graph
@@ -109,6 +111,8 @@ const hamoex = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00ff9f&line=00ff9f&point=ffffff&area=true&area_color=00ff9f&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 </div>
 
@@ -143,7 +147,6 @@ const hamoex = {
 <a href="https://spotify-widget.jvillegasd.com/?opened">
   <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
 </a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 <!-- <div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
