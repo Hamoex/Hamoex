@@ -120,12 +120,16 @@ const hamoex = {
 
 <div align="center">
 
-<a href="https://github.com/Hamoex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" />
-</a>
-<a href="https://github.com/Hamoex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<!-- Animated Stats Bars -->
+<img src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Animated" />
 
 </div>
 
@@ -135,15 +139,11 @@ const hamoex = {
 
 <div align="center">
 
-<a href="https://github.com/Hamoex">
-  <img src="https://streak-stats.demolab.com/?user=Hamoex&theme=tokyonight&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=Hamoex&theme=default&background=0d1117&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<a href="https://github.com/Hamoex">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00F548&line=00F548&point=FFFFFF&area=true&area_color=00F548&hide_border=true&custom_title=Contribution%20Activity&days=30" alt="Activity Graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00F548&line=00F548&point=FFFFFF&area=true&area_color=00F548&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 </div>
 
@@ -153,9 +153,7 @@ const hamoex = {
 
 <div align="center">
 
-<a href="https://github.com/Hamoex">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&row=3" alt="Trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&row=3" alt="Trophies" />
 
 </div>
 
@@ -165,7 +163,7 @@ const hamoex = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 </div>
 
