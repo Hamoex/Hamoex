@@ -34,7 +34,7 @@
 const hamoex = {
     pronouns: "He/Him",
     role: "Full Developer | DevOps",
-    languages: ["JavaScript", "Python", "C++"],
+    languages: ["JavaScript", "Python", "C++, More"],
     focus: "Building awesome web applications",
     skills: ["Web Dev", "Backend", "Frontend", "Server VPS", "Solving"],
     funFact: "I turn coffee into code ☕",
