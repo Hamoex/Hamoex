@@ -84,6 +84,7 @@ const hamoex = {
 
 <div align="center">
 
+<<<<<<< HEAD
 <!-- Stats from GitHub Action -->
 <img src="https://raw.githubusercontent.com/Hamoex/Hamoex/stats-output/stats.svg" height="150" alt="stats graph" />
 
@@ -92,6 +93,8 @@ const hamoex = {
 
 </div>
 
+=======
+>>>>>>> f5df720d6145b95815865b711dd7b65f90524891
 ## &#128200; Contribution Graph
 
 <div align="center">
@@ -100,13 +103,6 @@ const hamoex = {
 
 </div>
 
-## &#128293; GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Hamoex&theme=gruvbox&background=0d1117&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff" alt="GitHub Streak" />
-
-</div>
 
 ## &#127942; GitHub Trophies
 
