@@ -88,7 +88,7 @@ const hamoex = {
 <img src="https://raw.githubusercontent.com/Hamoex/readme/832b9c4ebfe287c92ed93a01b5c291df0dc93537/stats.svg" height="150" alt="stats graph" />
 
 <!-- Languages from GitHub Action -->
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/languages-output/languages.svg" height="150" alt="languages graph" />
+<img src="https://raw.githubusercontent.com/Hamoex/readme/e062177cc66467364b0a2322dceed7318740462a/languages.svg" height="150" alt="languages graph" />
 
 <!-- Stats Badges -->
 <img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
