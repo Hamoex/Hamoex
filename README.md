@@ -123,6 +123,7 @@ const hamoex = {
 <img src="https://streak-stats.demolab.com/?user=Hamoex&theme=gruvbox&background=0d1117&hide_border=true&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff" alt="GitHub Streak" />
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 ## &#127942; GitHub Trophies
 
