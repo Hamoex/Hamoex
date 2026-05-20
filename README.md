@@ -194,8 +194,9 @@ const hamoex = {
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Hamoex/readme/c181c52c95ba3140743fa7491f1a6c30bd446f72/pacman-contribution-graph-dark.svg" alt="Yummy" />
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
 
 
