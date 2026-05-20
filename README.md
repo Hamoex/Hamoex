@@ -132,6 +132,8 @@ const hamoex = {
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&margin-w=10&margin-h=10&row=2&include=COMMITS,ISSUES,CONTRIBUTORS" alt="Trophies" />
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
+
 
 ## &#128172; Random Dev Quote
 
