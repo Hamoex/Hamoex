@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hamoex&color=blueviolet&style=flat-square&label=Profile+Views" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=onedark&color=blueviolet&style=flat-square&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/Hamoex?label=Followers&style=flat-square&color=00ff9f" />
 <img src="https://img.shields.io/github/stars/Hamoex?label=Stars&style=flat-square&color=00ff9f" />
 
