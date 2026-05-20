@@ -75,15 +75,12 @@ const hamoex = {
 
 ## &#128202; GitHub Stats
 
-<div align="center">
-
 <!-- Stats Badges -->
-<img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Stars-0-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repos-3-00CED1?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Forks-0-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hamoEX/hamoEX/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/hamoEX/hamoEX/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
+
 
 ## &#128200; Contribution Graph
 
