@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Developer%20%7C%20DevOps%20%7C%20More&descSize=20&descAlignY=55&descAlign=50" />
 
 <div align="center">
-
+    
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Developer+%7C+DevOps+%7C+More;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Server+VPS+%26+Solving;Web+Development+%E2%80%A2+Backend+%E2%80%A2+Frontend;Building+the+future%2C+one+line+at+a+time;Always+learning+something+new" />
 
 <br/>
