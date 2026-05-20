@@ -31,10 +31,6 @@
 
 ## &#128187; About Me
 
-<a href="https://github.com/Hamoex">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9" alt="WakaTime" height="150" />
-</a>
-
 ```javascript
 const hamoex = {
     pronouns: "He/Him",
@@ -124,10 +120,10 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Hamoex">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9&langs_count=10&size_weight=0.5&count_weight=0.5" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9&langs_count=10" />
 </a>
 
 <br/>
@@ -138,7 +134,6 @@ const hamoex = {
 
 <br/>
 
-<!-- Repos Per Language & Most Commit Language -->
 <a href="https://github.com/Hamoex">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamoex&theme=radical" width="49%" />
 </a>
@@ -148,7 +143,6 @@ const hamoex = {
 
 <br/>
 
-<!-- Productive Time & Stats -->
 <a href="https://github.com/Hamoex">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamoex&theme=radical&utcOffset=8" width="49%" />
 </a>
@@ -165,20 +159,13 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamoex&theme=radical&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9&date_format=%5BY-%5Dn-j" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamoex&theme=radical&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Hamoex">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00F548&line=00F548&point=FFFFFF&area=true&area_color=00F548&hide_border=true&custom_title=Contribution%20Activity&days=30" alt="Activity Graph" />
-</a>
-
-<br/>
-
-<!-- Contribution Snake Animation -->
-<a href="https://github.com/Hamoex">
-  <img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </a>
 
 </div>
@@ -197,37 +184,11 @@ const hamoex = {
 
 ---
 
-## &#128293; GitHub Metrics
-
-<div align="center">
-
-<a href="https://github.com/Hamoex">
-  <img src="https://github-metrics-remastered.vercel.app/pull?username=Hamoex&template=classic&config.timezone=America%2FNew_York" alt="Metrics" width="100%" />
-</a>
-
-</div>
-
----
-
 ## &#128172; Random Dev Quote
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## &#128466; Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<a href="https://yorkhost.fr/blog">
-  <img src="https://img.shields.io/badge/📝%20Check%20out%20my%20blog-00F548?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-<!-- BLOG-POST-LIST:END -->
 
 </div>
 
@@ -268,12 +229,6 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Visitors Snake Animation -->
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<br/>
-
-<!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=150&section=footer" />
 
 </div>
