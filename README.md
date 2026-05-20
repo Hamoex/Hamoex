@@ -157,7 +157,7 @@ const hamoex = {
 </div>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hamoex/readme/c181c52c95ba3140743fa7491f1a6c30bd446f72/pacman-contribution-graph-dark.svg" alt="Yummy" />
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
