@@ -77,31 +77,13 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Main Stats - Big Animated -->
-<img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Stars-0-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repos-3-00CED1?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Forks-0-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+<!-- GitHub Stats Image -->
+<img src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 
 <br/>
 
-<!-- More Stats -->
-<img src="https://img.shields.io/badge/Contributions-Active-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Issues-0-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PRs-0-E67E22?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/>
-
-<!-- Stats Table -->
-| 📊 Stats | 📈 Value |
-|:---:|:---:|
-| **Public Repos** | ![Repos](https://img.shields.io/badge/3-00ff9f?style=flat-square) |
-| **Followers** | ![Followers](https://img.shields.io/badge/0-00ff9f?style=flat-square) |
-| **Stars** | ![Stars](https://img.shields.io/badge/0-FFD700?style=flat-square) |
-| **Forks** | ![Forks](https://img.shields.io/badge/0-FF6B6B?style=flat-square) |
-| **Issues** | ![Issues](https://img.shields.io/badge/0-9B59B6?style=flat-square) |
-| **PRs** | ![PRs](https://img.shields.io/badge/0-E67E22?style=flat-square) |
-| **Last Commit** | ![Last Commit](https://img.shields.io/badge/Recent-00ff9f?style=flat-square) |
+<!-- Top Languages Image -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 
 </div>
 
