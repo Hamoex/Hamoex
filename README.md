@@ -24,8 +24,6 @@
 
 <!-- Pacman Contribution Graph -->
 
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 ## &#128187; About Me
 
 ```javascript
@@ -151,3 +149,6 @@ const hamoex = {
 <img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
+
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
