@@ -1,18 +1,16 @@
-<![CDATA[<div align="center">
+<div align="center">
 
-<!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F548&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Hamo+%F0%9F%91%8B;Full+Stack+Developer+%26+Programmer;Working+with+YorkHost+%F0%9F%92%A0;JavaScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B;Always+learning+something+new" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Hamoex&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtOi/giphy.gif" width="30"> About Me
+## &#128187; About Me
 
 ```javascript
 const hamoex = {
@@ -27,7 +25,7 @@ const hamoex = {
 
 ---
 
-## <img src="https://media.giphy.com/media/Wn74RUT0vjnoU8KLwh/giphy.gif" width="30"> Technologies
+## &#127775; Technologies
 
 <div align="center">
 
@@ -45,7 +43,7 @@ const hamoex = {
 
 ---
 
-## <img src="https://media.giphy.com/media/KzJkzjgaYt9TlaLmLh/giphy.gif" width="30"> Tools
+## &#128295; Tools
 
 <div align="center">
 
@@ -62,45 +60,50 @@ const hamoex = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## &#128202; GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9" />
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9" />
+<a href="https://github.com/Hamoex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamoex&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&icon_color=00F548&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Hamoex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamoex&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00F548&text_color=c9d1d9" />
+</a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Contribution Graph
+## &#128200; Contribution Graph
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamoex&theme=radical&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
+<a href="https://github.com/Hamoex">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamoex&theme=radical&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
+</a>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00F548&line=00F548&point=FFFFFF&area=true&area_color=00F548&hide_border=true" alt="Activity Graph" />
+<a href="https://github.com/Hamoex">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00F548&line=00F548&point=FFFFFF&area=true&area_color=00F548&hide_border=true" alt="Activity Graph" />
+</a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/KzJkzjgaYt9TlaLmLh/giphy.gif" width="30"> GitHub Trophies
+## &#127942; GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<a href="https://github.com/Hamoex">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/Wsk6R9bNZCp0UOxezz/giphy.gif" width="30"> Random Dev Quote
+## &#128172; Random Dev Quote
 
 <div align="center">
 
@@ -110,7 +113,7 @@ const hamoex = {
 
 ---
 
-## <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"> Connect With Me
+## &#127760; Connect With Me
 
 <div align="center">
 
@@ -124,11 +127,10 @@ const hamoex = {
 
 <div align="center">
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<a href="https://github.com/Hamoex">
+  <img src="https://raw.githubusercontent.com/Hamoex/Hamoex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</a>
 
-<!-- Wave Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
 
 </div>
-]]>
