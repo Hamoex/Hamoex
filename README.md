@@ -136,6 +136,29 @@ const hamoex = {
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
+
+##  &#128202; 🎵 Spotify status
+
+<a href="https://spotify-widget.jvillegasd.com/?opened">
+  <img src="https://spotify-widget.jvillegasd.com/" width="460" height="240" alt="Now Playing">
+</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
+
+<!-- <div id = "some_issues">
+  <p>It is a little list of problems you can face while implementing this kind of stuff</p>
+  <ul id = "problem_list">
+    <li>
+      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
+      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
+    </li>
+    <li>
+      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
+      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
+    </li>
+  </ul>
+</div> -->
+
 ## &#127760; Connect With Me
 
 <div align="center">
@@ -147,6 +170,7 @@ const hamoex = {
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 </div>
 
@@ -159,6 +183,7 @@ const hamoex = {
 </a>
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Hamoex/readme/c181c52c95ba3140743fa7491f1a6c30bd446f72/pacman-contribution-graph-dark.svg" alt="Yummy" />
@@ -166,4 +191,6 @@ const hamoex = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=120&section=footer" />
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
+
 
