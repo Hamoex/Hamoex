@@ -86,19 +86,17 @@ const hamoex = {
 
 <!-- Stats from GitHub Action -->
 <img src="https://raw.githubusercontent.com/Hamoex/readme/832b9c4ebfe287c92ed93a01b5c291df0dc93537/stats.svg" height="150" alt="stats graph" />
+
 <!-- Languages from GitHub Action -->
 <img src="https://raw.githubusercontent.com/Hamoex/readme/e062177cc66467364b0a2322dceed7318740462a/languages.svg" height="150" alt="languages graph" />
 
+<br/>
 
 <!-- Stats Badges -->
 <img src="https://img.shields.io/badge/Followers-0-00ff9f?style=for-the-badge&logo=github&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Stars-0-FFD700?style=for-the-badge&logo=github&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Repos-3-00CED1?style=for-the-badge&logo=github&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Forks-0-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-
 
 </div>
 
