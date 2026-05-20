@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamoex&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Developer%20%7C%20DevOps%20%7C%20More&descSize=20&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F548,100:0d1117&height=220&section=header&text=Hamo&fontSize=90&fontColor=00F548&animation=true&fontAlignY=35&desc=Full%20Developer%20%7C%20DevOps%20%7C%20More&descSize=20&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
