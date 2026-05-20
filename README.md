@@ -119,7 +119,7 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=gruvbox&no-frame=false&no-bg=false&column=6&margin-w=10&margin-h=10&row=2&include=COMMITS,ISSUES,CONTRIBUTORS" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=onedark&theme=gruvbox&no-frame=false&no-bg=false&column=6&margin-w=10&margin-h=10&row=2&include=COMMITS,ISSUES,CONTRIBUTORS" alt="Trophies" />
 
 </div>
 
