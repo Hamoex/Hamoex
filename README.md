@@ -160,7 +160,7 @@ const hamoex = {
 <div align="center">
 
 <a href="https://github.com/Hamoex">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamoex&theme=tokyonight&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Hamoex&theme=tokyonight&background=0d1117&hide_border=true&ring=00F548&fire=00F548&currStreakLabel=00F548&sideLabels=c9d1d9" alt="GitHub Streak" />
 </a>
 
 <br/>
