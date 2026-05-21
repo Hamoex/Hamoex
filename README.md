@@ -29,7 +29,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-## &#128187; About Me
+## &#128187; About Me!
 
 ```javascript
 const hamoex = {
