@@ -113,7 +113,7 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamoex&bg_color=0d1117&color=00ff9f&line=00ff9f&point=ffffff&area=true&area_color=00ff9f&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/activity-output/activity-graph.svg" alt="Activity Graph" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
 
