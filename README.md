@@ -92,10 +92,10 @@ const hamoex = {
 <div align="center">
 
 <!-- Stats from GitHub Action -->
-<img src="https://raw.githubusercontent.com/Hamoex/readme/832b9c4ebfe287c92ed93a01b5c291df0dc93537/stats.svg" height="150" alt="stats graph" />
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/stats-output/stats.svg" height="150" alt="stats graph" />
 
 <!-- Languages from GitHub Action -->
-<img src="https://raw.githubusercontent.com/Hamoex/readme/e062177cc66467364b0a2322dceed7318740462a/languages.svg" height="150" alt="languages graph" />
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/languages-output/languages.svg" height="150" alt="languages graph" />
 
 <br/>
 
@@ -132,7 +132,7 @@ const hamoex = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&margin-w=10&margin-h=10&row=2&include=COMMITS,ISSUES,CONTRIBUTORS" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hamoex&theme=juicyfresh&margin-w=10&margin-h=10&row=2&include=COMMITS,ISSUES,CONTRIBUTORS" alt="Trophies" />
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00F548,100:0d1117&height=3" />
@@ -195,7 +195,7 @@ const hamoex = {
 </div>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Hamoex/readme/c181c52c95ba3140743fa7491f1a6c30bd446f72/pacman-contribution-graph-dark.svg" alt="Yummy" />
+<img src="https://raw.githubusercontent.com/Hamoex/Hamoex/pacman-output/pacman-contribution-graph-dark.svg" alt="Yummy" />
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" />
 
